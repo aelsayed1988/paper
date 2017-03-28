@@ -1,0 +1,667 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2014.1.23)  5 JUN 2015 15:56
+entering extended mode
+ %&-line parsing enabled.
+**changes.tex
+(./changes.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
+erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
+ french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
+us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
+tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
+turkish, ukenglish, ukrainian, loaded.
+(/homes/aelsayed/texmf/tex/latex/revtex/revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ Copyright (c) 2009 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <arthur_ogawa at sbcglobal dot net>
+ Based on work by David Carlisle <david at dcarlisle.demon.co.uk>.
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+LaTeX Info: Redefining \@centercr on input line 308.
+Class revtex4-1 Info: Repairing broken LaTeX eqnarray on input line 358.
+\eqncolsep=\skip41
+Class revtex4-1 Info: Repairing hyperref-unfriendly LaTeX definition of \mpfoot
+note on input line 433.
+Class revtex4-1 Info: Repairing broken LateX \@sect on input line 755.
+\intertabularlinepenalty=\count79
+\@tbpen=\count80
+\@arstrutbox@hline=\box26
+Class revtex4-1 Info: Repairing broken LaTeX \@xbitor on input line 1786.
+Class revtex4-1 Info: Making \typeout \long on input line 2046.
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+\c@affil=\count81
+\c@collab=\count82
+\absbox=\box27
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+\c@linecount=\count83
+\output@latex=\toks14
+\box@size@1=\box28
+\box@size@2=\box29
+\@protection@box=\box30
+\@topmark@saved=\toks15
+\footins@saved=\box31
+\footins@recovered=\box32
+\column@recovered=\box33
+\pagesofar=\box34
+\footsofar=\box35
+\pagegrid@col=\count84
+Class revtex4-1 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and
+ \\  on input line 5578.
+\c@part=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count91
+\fbox@1=\box36
+\c@table=\count92
+\fbox@2=\box37
+\c@video=\count93
+\fbox@4=\box38
+\@bibdataout=\write3
+\widetext@top=\box39
+\widetext@bot=\box40
+Class revtex4-1 Info: Selecting society aps on input line 7542.
+(/homes/aelsayed/texmf/tex/latex/revtex/aps4-1.rtx
+File: aps4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for docu
+mentation)
+Class revtex4-1 Info: RevTeX society APS selected on input line 31.
+)
+Class revtex4-1 Info: Selecting journal prb on input line 7544.
+Class revtex4-1 Info: APS journal PRB selected on input line 7545.
+
+(/homes/aelsayed/texmf/tex/latex/revtex/aps10pt4-1.rtx
+File: aps10pt4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for 
+documentation)
+Class revtex4-1 Info: RevTeX pointsize 10pt selected on input line 30.
+)
+(/usr/share/texmf/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+(/usr/share/texmf/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
+)
+(/homes/aelsayed/texmf/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip44
+\bibsep=\skip45
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+Class revtex4-1 Info: Repairing natbib's \BibitemShut on input line 7549.
+
+(/homes/aelsayed/texmf/tex/latex/revtex/revsymb4-1.sty
+Package: revsymb4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ f
+or documentation)
+LaTeX Info: Redefining \REV@mathfrak on input line 119.
+))
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+(/usr/share/texmf/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
+\Gread@gobject=\count95
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+(/homes/aelsayed/texmf/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(/homes/aelsayed/texmf/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/homes/aelsayed/texmf/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/homes/aelsayed/texmf/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/homes/aelsayed/texmf/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+
+(/homes/aelsayed/texmf/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)))
+(/homes/aelsayed/texmf/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/homes/aelsayed/texmf/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/homes/aelsayed/texmf/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/homes/aelsayed/texmf/tex/latex/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/homes/aelsayed/texmf/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/homes/aelsayed/texmf/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive disabled, because
+(pdftexcmds)             \pdfprimitive is broken until pdfTeX 1.40.4.
+Package pdftexcmds Info: \pdf@primitive is not available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+
+Package epstopdf Warning: Shell escape feature is not enabled.
+
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2.PNG,.PDF,.JPG,.JPEG
+,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+)) (/homes/aelsayed/texmf/tex/latex/chemfig/chemfig.sty
+(/homes/aelsayed/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/homes/aelsayed/texmf/tex/latex/pgf/basiclayer/pgf.sty
+(/homes/aelsayed/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/homes/aelsayed/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen104
+\pgfutil@tempdimb=\dimen105
+
+(/homes/aelsayed/texmf/tex/generic/pgf/utilities/pgfutil-common-lists.tex))
+(/homes/aelsayed/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box41
+
+(/usr/share/texmf/tex/latex/everyshi/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/homes/aelsayed/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+
+(/homes/aelsayed/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/homes/aelsayed/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/homes/aelsayed/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+
+(/homes/aelsayed/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+(/homes/aelsayed/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen106
+\pgf@y=\dimen107
+\pgf@xa=\dimen108
+\pgf@ya=\dimen109
+\pgf@xb=\dimen110
+\pgf@yb=\dimen111
+\pgf@xc=\dimen112
+\pgf@yc=\dimen113
+\w@pgf@writea=\write4
+\r@pgf@reada=\read1
+\c@pgf@counta=\count96
+\c@pgf@countb=\count97
+\c@pgf@countc=\count98
+\c@pgf@countd=\count99
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+
+(/homes/aelsayed/texmf/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/homes/aelsayed/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+
+(/homes/aelsayed/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/homes/aelsayed/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count100
+\pgfsyssoftpath@bigbuffer@items=\count101
+)
+(/homes/aelsayed/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/homes/aelsayed/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+
+(/homes/aelsayed/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/homes/aelsayed/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/homes/aelsayed/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/homes/aelsayed/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen114
+\pgfmath@count=\count102
+\pgfmath@box=\box42
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+)
+(/homes/aelsayed/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/homes/aelsayed/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/homes/aelsayed/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
+.tex)
+(/homes/aelsayed/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/homes/aelsayed/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
+x) (/homes/aelsayed/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/homes/aelsayed/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/homes/aelsayed/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
+(/homes/aelsayed/texmf/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
+.code.tex))) (/homes/aelsayed/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count103
+)) (/homes/aelsayed/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen115
+\pgf@picmaxx=\dimen116
+\pgf@picminy=\dimen117
+\pgf@picmaxy=\dimen118
+\pgf@pathminx=\dimen119
+\pgf@pathmaxx=\dimen120
+\pgf@pathminy=\dimen121
+\pgf@pathmaxy=\dimen122
+\pgf@xx=\dimen123
+\pgf@xy=\dimen124
+\pgf@yx=\dimen125
+\pgf@yy=\dimen126
+\pgf@zx=\dimen127
+\pgf@zy=\dimen128
+)
+(/homes/aelsayed/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen129
+\pgf@path@lasty=\dimen130
+) (/homes/aelsayed/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen131
+\pgf@shorten@start@additional=\dimen132
+)
+(/homes/aelsayed/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box43
+\pgf@hbox=\box44
+\pgf@layerbox@main=\box45
+\pgf@picture@serial@count=\count104
+)
+(/homes/aelsayed/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen133
+)
+(/homes/aelsayed/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
+ex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen134
+\pgf@pt@y=\dimen135
+\pgf@pt@temp=\dimen136
+) (/homes/aelsayed/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/homes/aelsayed/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/homes/aelsayed/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
+x
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+) (/homes/aelsayed/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen137
+)
+(/homes/aelsayed/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen138
+\pgf@sys@shading@range@num=\count105
+)
+(/homes/aelsayed/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/homes/aelsayed/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box46
+))
+(/homes/aelsayed/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/homes/aelsayed/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+) (/homes/aelsayed/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/homes/aelsayed/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box47
+)
+(/homes/aelsayed/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+)
+(/homes/aelsayed/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen139
+\pgf@nodesepend=\dimen140
+)
+(/homes/aelsayed/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+))
+(/homes/aelsayed/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/homes/aelsayed/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/homes/aelsayed/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/homes/aelsayed/texmf/tex/latex/pgf/math/pgfmath.sty
+(/homes/aelsayed/texmf/tex/generic/pgf/math/pgfmath.code.tex))
+(/homes/aelsayed/texmf/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+
+(/homes/aelsayed/texmf/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen141
+\pgffor@skip=\dimen142
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
+))
+(/homes/aelsayed/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+(/homes/aelsayed/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
+x
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count106
+\pgfplotmarksize=\dimen143
+)
+\tikz@lastx=\dimen144
+\tikz@lasty=\dimen145
+\tikz@lastxsaved=\dimen146
+\tikz@lastysaved=\dimen147
+\tikzleveldistance=\dimen148
+\tikzsiblingdistance=\dimen149
+\tikz@figbox=\box48
+\tikz@figbox@bg=\box49
+\tikz@tempbox=\box50
+\tikz@tempbox@bg=\box51
+\tikztreelevel=\count107
+\tikznumberofchildren=\count108
+\tikznumberofcurrentchild=\count109
+\tikz@fig@count=\count110
+ (/homes/aelsayed/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count111
+\pgfmatrixcurrentcolumn=\count112
+\pgf@matrix@numberofcolumns=\count113
+)
+\tikz@expandcount=\count114
+
+(/homes/aelsayed/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+topaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+))) (/homes/aelsayed/texmf/tex/latex/chemfig/chemfig.tex
+\CF@cnt@atomingroup=\count115
+\CF@cnt@groupnumber=\count116
+\CF@cnt@atomnumber=\count117
+\CF@cnt@cycle=\count118
+\CF@dim=\dimen150
+\CF@lewis@box=\box52
+\CF@box@boxa=\box53
+\CF@box@boxb=\box54
+\CF@stuff@box=\box55
+\CF@unused=\write5
+\CF@compound@cnt=\count119
+\CF@arrow@size=\dimen151
+)
+Package: chemfig 2013/11/28 v1.0h Draw molecule with an easy syntax
+)
+(/usr/share/texmf/tex/latex/ltxmisc/ulem.sty
+\UL@box=\box56
+\UL@hyphenbox=\box57
+\UL@skip=\skip46
+\UL@hook=\toks29
+\UL@pe=\count120
+\UL@pixel=\dimen152
+\ULC@box=\box58
+Package: ulem 2000/05/26
+\ULdepth=\dimen153
+)
+Class revtex4-1 Info: Patching LaTeX tabular. on input line 28.
+Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 28.
+
+Class revtex4-1 Info: cite was not loaded (OK!) on input line 28.
+Class revtex4-1 Info: mcite was not loaded (OK!) on input line 28.
+Class revtex4-1 Info: multicol was not loaded (OK!) on input line 28.
+ (./changes.aux)
+\openout1 = `changes.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+
+ABD: EveryShipout initializing macros
+\openout3 = `changesNotes.bib'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 55.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 55.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 55.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 61.
+
+
+Class revtex4-1 Warning: If you want your keywords to appear in your output, us
+e document class option showkeys.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+<hydroxyl_eprime_configurations2.png, id=26, 212.7147pt x 252.7041pt>
+File: hydroxyl_eprime_configurations2.png Graphic file (type png)
+
+<use hydroxyl_eprime_configurations2.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 117.
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 124--125
+[]\OT1/cmr/m/n/10 The to-tal en-ergy of the sys-tem con-tain-ing the
+ []
+
+<hydroxyl_eprime_distribution.png, id=32, 248.6088pt x 192.72pt>
+File: hydroxyl_eprime_distribution.png Graphic file (type png)
+
+<use hydroxyl_eprime_distribution.png>
+Overfull \hbox (2.60817pt too wide) in paragraph at lines 132--133
+ [][] 
+ []
+
+
+Underfull \hbox (badness 4479) in paragraph at lines 137--138
+[]\OT1/cmr/m/n/10 The av-er-age Mul-liken spin mo-ment of the 3-
+ []
+
+[4 <./hydroxyl_eprime_configurations2.png>]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 138.
+
+<hdefects_sisio2.png, id=37, 227.6505pt x 150.8034pt>
+File: hdefects_sisio2.png Graphic file (type png)
+
+<use hdefects_sisio2.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<formation_thermodynamic_levels3.png, id=38, 244.7544pt x 433.62pt>
+File: formation_thermodynamic_levels3.png Graphic file (type png)
+
+<use formation_thermodynamic_levels3.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <./hydroxyl_eprime_distribution.png> <./hdefects_sisio2.png>]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 159.
+
+<thermodynamic_levels4.png, id=44, 244.7544pt x 177.3024pt>
+File: thermodynamic_levels4.png Graphic file (type png)
+
+<use thermodynamic_levels4.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 3977) in paragraph at lines 172--173
+[]\OT1/cmr/m/n/10 Hydrogen pas-si-va-tion of the E$[]$ cen-ter and 3-
+ []
+
+[6 <./formation_thermodynamic_levels3.png> <./thermodynamic_levels4.png>]
+[7] <hydrogen_bridge_configurations2.png, id=54, 230.0595pt x 108.405pt>
+File: hydrogen_bridge_configurations2.png Graphic file (type png)
+
+<use hydrogen_bridge_configurations2.png>
+<hbridge_lengths_labelled.png, id=55, 236.082pt x 180.675pt>
+File: hbridge_lengths_labelled.png Graphic file (type png)
+
+<use hbridge_lengths_labelled.png>
+<hbridge_007_2.png, id=56, 251.9814pt x 267.399pt>
+File: hbridge_007_2.png Graphic file (type png)
+ <use hbridge_007_2.png>
+Overfull \hbox (5.98077pt too wide) in paragraph at lines 263--264
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8 <./hydrogen_bridge_configurations2.png>]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 271.
+
+<hbridge_analysis.png, id=61, 256.0767pt x 165.7392pt>
+File: hbridge_analysis.png Graphic file (type png)
+
+<use hbridge_analysis.png>
+Overfull \hbox (10.07608pt too wide) in paragraph at lines 280--281
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9 <./hbridge_lengths_labelled.png (PNG copy)> <./hbridge_007_2.png>]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 294.
+
+[10 <./hbridge_analysis.png>]
+Missing character: There is no Ã in font cmr9!
+Missing character: There is no ± in font cmr9!
+Missing character: There is no Ã in font cmr9!
+Missing character: There is no © in font cmr9!
+
+Underfull \hbox (badness 1748) in paragraph at lines 521--527
+ []\OT1/cmr/m/n/9 S. Gi-rard, J. Kuhn-henn, A. Gusarov, B. Brichard,
+ []
+
+[11]
+Underfull \hbox (badness 1173) in paragraph at lines 779--783
+ []\OT1/cmr/m/n/9 A.-M. El-Sayed, M. B. Watkins, T. Grasser, V. V.
+ []
+
+Missing character: There is no Ã in font cmr9!
+Missing character: There is no ³ in font cmr9!
+Missing character: There is no â in font cmr9!
+Missing character: There is no € in font cmr9!
+Missing character: There is no ™ in font cmr9!
+
+Underfull \hbox (badness 1173) in paragraph at lines 1028--1034
+ []\OT1/cmr/m/n/9 A.-M. El-Sayed, M. B. Watkins, T. Grasser, V. V.
+ []
+
+[12] (./changes.aux) ) 
+Here is how much of TeX's memory you used:
+ 14336 strings out of 256216
+ 275005 string characters out of 1917072
+ 471707 words of memory out of 1500000
+ 17382 multiletter control sequences out of 10000+200000
+ 7472 words of font info for 27 fonts, out of 1200000 for 2000
+ 645 hyphenation exceptions out of 8191
+ 62i,26n,93p,2980b,1869s stack positions out of 5000i,500n,6000p,200000b,15000s
+</usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr
+/share/texmf/fonts/type1/bluesky/cm/cmbx9.pfb></usr/share/texmf/fonts/type1/blu
+esky/cm/cmex10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi10.pfb></usr/sh
+are/texmf/fonts/type1/bluesky/cm/cmmi5.pfb></usr/share/texmf/fonts/type1/bluesk
+y/cm/cmmi7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/t
+exmf/fonts/type1/bluesky/cm/cmr5.pfb></usr/share/texmf/fonts/type1/bluesky/cm/c
+mr6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr7.pfb></usr/share/texmf/fon
+ts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr9.pfb>
+</usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf/fonts/typ
+e1/bluesky/cm/cmsy6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy7.pfb></us
+r/share/texmf/fonts/type1/bluesky/cm/cmti10.pfb></usr/share/texmf/fonts/type1/b
+luesky/cm/cmti9.pfb></usr/share/texmf/fonts/type1/bluesky/latex-fonts/lasy6.pfb
+>
+Output written on changes.pdf (12 pages, 2443429 bytes).
+PDF statistics:
+ 134 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
+

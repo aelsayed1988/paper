@@ -1,0 +1,114 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.6)
+The top-level auxiliary file: sio2_h_020415_ALS.aux
+The style file: apsrev4-1.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: sio2_h_020415_ALSNotes.bib
+Database file #2: sio2_h.bib
+You're missing a field name---line 10 of file sio2_h.bib
+ : 
+ : %author = {Moore, G. E.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 24 of file sio2_h.bib
+ : 
+ : %author  = {Payne, M. C. and Teter, M. P. and Allan, D. C. and Arias, T. A. and Joannopoulos, J. D.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 34 of file sio2_h.bib
+ : 
+ : %author = {Kawamoto, A},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 41 of file sio2_h.bib
+ : 
+ : %author = {Liu, R.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1644 of file sio2_h.bib
+ : 
+ : @article{awazu,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field part---line 1686 of file sio2_h.bib
+ : eid = 
+ :       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6779 of file sio2_h.bib
+ :  @article{robertson_oxides
+ :                           ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 6946 of file sio2_h.bib
+ :  
+ :  volume={31},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 6976 of file sio2_h.bib
+ :  @article{godet_hydrogen
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7007 of file sio2_h.bib
+ :  @article{helms_bti
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7022 of file sio2_h.bib
+ :  @article{afanasev_prb
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7030 of file sio2_h.bib
+ :  @article{afanasev_protonic1
+ :                             ,
+I'm skipping whatever remains of this entry
+control{REVTEX41Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{N/A}, control.pages{N/A}, control.year{N/A}, control.eprint{N/A}, 
+control{apsrev41Control}, control.key{N/A}, control.author{08}, control.editor{1}, control.title{}, control.pages{0}, control.year{1}, control.eprint{N/A}, 
+Warning--jnrlst (dependency: not reversed) set 1
+merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+Control: key (0) 
+Control: author (8) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (-1) disabled
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+Warning--empty chapter and pages in sio2_dielectric
+You've used 82 entries,
+            5847 wiz_defined-function locations,
+            2123 strings with 26139 characters,
+and the built_in function-call counts, 80698 in all, are:
+= -- 5240
+> -- 2089
+< -- 549
++ -- 660
+- -- 505
+* -- 12354
+:= -- 7892
+add.period$ -- 83
+call.type$ -- 82
+change.case$ -- 326
+chr.to.int$ -- 87
+cite$ -- 83
+duplicate$ -- 7563
+empty$ -- 6011
+format.name$ -- 1245
+if$ -- 16144
+int.to.chr$ -- 4
+int.to.str$ -- 89
+missing$ -- 998
+newline$ -- 292
+num.names$ -- 242
+pop$ -- 3284
+preamble$ -- 1
+purify$ -- 400
+quote$ -- 0
+skip$ -- 2869
+stack$ -- 0
+substring$ -- 2180
+swap$ -- 7087
+text.length$ -- 249
+text.prefix$ -- 0
+top$ -- 10
+type$ -- 1134
+warning$ -- 2
+while$ -- 253
+width$ -- 0
+write$ -- 691
+(There were 12 error messages)
